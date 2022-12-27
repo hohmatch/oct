@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS cards
+(
+    id    SERIAL PRIMARY KEY ,
+    test  VARCHAR(2000) NOT NULL
+);
