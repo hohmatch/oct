@@ -14,7 +14,7 @@
 	<name>oct</name>
 	<description>Base for Oct Game</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<packaging>jar</packaging>
 
