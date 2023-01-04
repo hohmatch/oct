@@ -15,6 +15,11 @@ public class Card {
     @Column()
     private String text;
 
+    public Card(int id, String text) {
+        this.id = id;
+        this.text = text;
+    }
+
     public int getId() {
         return id;
     }
